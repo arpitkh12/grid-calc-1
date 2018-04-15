@@ -1,0 +1,14 @@
+{
+	"expo": {
+		"sdkVersion": "25.0.0",
+		"icon": "./app-icon.png",
+		"version": "1.0.0",
+		"slug": "gridCalc",
+		"ios": {
+			"bundleIdentifier": "com.lt.grid.calc"
+		},
+		"android": {
+			"package": "com.lt.grid.calc"
+		}
+	}
+}
